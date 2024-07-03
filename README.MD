@@ -9,3 +9,8 @@ Underline 1
 ------------
 Underline
 ============
+ - formato *italic* de la primer forma.
+ - formato _italic_ de la primer forma.
+ - formato **bold o strong**.
+ - formato __bold o strong__.
+ - formato  ~~tachado~~;
