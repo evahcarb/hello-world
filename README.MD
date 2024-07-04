@@ -82,3 +82,22 @@ Código en  json
 | Nombre | Apellido | Documento |
 |--------|----------|-----------|
 | Maxi   | Burgos   | 88888     |
+
+
+# Citas
+
+ Esto es un texto sin cita
+ >Esto es un texto con cita
+
+ # Líneas divisoras
+
+ Esto es un texto que sera dividido
+
+ ---
+  Esto es otro texto que sera dividido
+
+  ***
+
+   Esto es un texto que sera dividido
+   ___
+
